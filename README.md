@@ -25,3 +25,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Describe any challenges encountered while building the app.
+One challenge I faced during Flix part 1 was with installing cocoapods. I used a public Mac Computer so I did not have administrative access when installing cocoapods via the terminal. I then used the alternate way to install cocoapods (without sudo), but I could not install cocoapods still. I then transferred to a different Mac computer and was able to install cocoapods successfully.
