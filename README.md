@@ -2,7 +2,24 @@
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [x] (5pts) User can tap a cell to see more details about a particular movie.
+- [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+#### BONUS
+- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+
+### App Walkthough GIF
+
+<img src="https://media.giphy.com/media/lqZ2eDr1ASR2C00rQu/giphy.gif" width=250><br>
+
+### Notes
+I ran into a problem around the collectionView point. My build was failing due to something not connecting properly. I rewatched the video and I was able to solve it. I am also running into problems with github. Pushing/Committing is a bit challenging because I am using a public Mac, so I think I may have to buy a personal Mac later.
 
 ---
 
@@ -24,5 +41,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="https://media.giphy.com/media/UPXcC6Pg8QsLpKwhHN/giphy.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
 One challenge I faced during Flix part 1 was with installing cocoapods. I used a public Mac Computer so I did not have administrative access when installing cocoapods via the terminal. I then used the alternate way to install cocoapods (without sudo), but I could not install cocoapods still. I then transferred to a different Mac computer and was able to install cocoapods successfully.
